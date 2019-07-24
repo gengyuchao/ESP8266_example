@@ -4,6 +4,8 @@ project_DHT11 is an example for multi-level folder Makefile, notice the folder s
 
 project_DHT11 can help you use the components of dht11_driver to get the Temperature and Humidity.
 
+You can see more details on my CSDN at https://blog.csdn.net/gengyuchao/article/details/97181864
+
 HOWTO:
 1. Copy this folder to anywhere.
 Example:
