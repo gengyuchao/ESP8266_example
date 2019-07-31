@@ -40,6 +40,7 @@ extern "C" void app_main(void)
     while(1)
     {
         run_time_count++;
+        display.clear();//清屏
         sprintf(ShowTextBuff,"Run time %d\n",run_time_count);
 
         display.drawString(0,10,ShowTextBuff);//向缓存中写文字
