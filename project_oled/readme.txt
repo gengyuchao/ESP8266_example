@@ -1,4 +1,4 @@
-This is dht11 example project.
+This is oled example project.
 
 project_oled is an example for multi-level folder Makefile, notice the folder structure and each Makefile, you can get the clue.
 

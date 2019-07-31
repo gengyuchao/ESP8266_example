@@ -1,10 +1,10 @@
-This is dht11 example project.
+This is BH1750 example project.
 
-project_oled is an example for multi-level folder Makefile, notice the folder structure and each Makefile, you can get the clue.
+project_BH1750 is an example for multi-level folder Makefile, notice the folder structure and each Makefile, you can get the clue.
 
-project_oled can help you use the components of oled_ssd1306 to display something on screen.
+project_BH1750 can help you get ambient light intensity information.
 
-You can see more details on my CSDN at https://blog.csdn.net/gengyuchao/article/details/97181864
+You can see more details on my CSDN at https://blog.csdn.net/gengyuchao/
 
 HOWTO:
 1. Copy this folder to anywhere.
