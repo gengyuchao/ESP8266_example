@@ -10,6 +10,8 @@
 
 #include "esp_system.h"
 
+#include "esp_log.h"
+
 #include "SSD1306I2C.hpp"
  
 //生成 OLED 的实例化对象
