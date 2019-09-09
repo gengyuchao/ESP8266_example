@@ -9,6 +9,14 @@ project_QRCode can help you use the components of QRCode and oled_ssd1306 to dis
 You can see oled more details on my CSDN at https://blog.csdn.net/gengyuchao/article/details/97181864
 
 
+## QRCode Display
+![DemoFrame1](https://github.com/gengyuchao/ESP8266_example/blob/master/project_QRCODE/picture/OLED_QRCODE.jpg)
+
+This frame shows the function of this example:
+ * show QRCode on OLED
+ * oled with IIC 
+
+
 
 # HOWTO:
 1. Copy this folder to anywhere.
