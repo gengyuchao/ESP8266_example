@@ -1,12 +1,16 @@
-This is oled example project.
+# OLED & QRCode on ESP8266 IDF
+
+This is oled show QRCode example project.
 
 project_oled is an example for multi-level folder Makefile, notice the folder structure and each Makefile, you can get the clue.
 
-project_oled can help you use the components of oled_ssd1306 to display something on screen.
+project_QRCode can help you use the components of QRCode and oled_ssd1306 to display QRCode on screen.
 
-You can see more details on my CSDN at https://blog.csdn.net/gengyuchao/article/details/97181864
+You can see oled more details on my CSDN at https://blog.csdn.net/gengyuchao/article/details/97181864
 
-HOWTO:
+
+
+# HOWTO:
 1. Copy this folder to anywhere.
 Example:
    Copy to ~/workspace/project_template
@@ -23,7 +27,7 @@ Example:
 3. Enter project_template folder, run ./gen_misc.sh, and follow the tips and steps.
 
 
-Compile Options:
+# Compile Options:
 (1) COMPILE
     Possible value: xcc
     Default value:
