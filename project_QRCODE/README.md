@@ -6,7 +6,7 @@ project_oled is an example for multi-level folder Makefile, notice the folder st
 
 project_QRCode can help you use the components of QRCode and oled_ssd1306 to display QRCode on screen.
 
-You can see oled more details on my CSDN at https://blog.csdn.net/gengyuchao/article/details/97181864
+You can see oled more details on my CSDN at https://blog.csdn.net/gengyuchao/article/details/95798075
 
 
 ## QRCode Display
